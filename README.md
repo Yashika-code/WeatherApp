@@ -84,9 +84,7 @@ src/
 
 ## 🖼️ Preview
 
-*(Add a screenshot or GIF of your app here)*
-Example:
-![Weather App Screenshot](./src/assets/Preview.png)
+[Weather App Screenshot](./src/assets/Preview.png)
 
 ---
 
