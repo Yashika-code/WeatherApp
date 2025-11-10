@@ -84,7 +84,7 @@ src/
 
 ## 🖼️ Preview
 
-[Weather App Screenshot](./src/assets/Preview.png)
+[Weather App Screenshot](https://github.com/Yashika-code/WeatherApp/blob/main/WeatherApp/src/assets/Preview.png)
 
 ---
 
